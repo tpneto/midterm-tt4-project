@@ -1,1 +1,1 @@
-import '.-list-products.scss';
+import './list-products.scss';
